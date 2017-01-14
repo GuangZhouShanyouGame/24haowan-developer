@@ -2,6 +2,8 @@
 
 24好玩开发者知识共享库
 
+详细请查看：[Gitbook](https://24haowan.gitbooks.io/developer/content/)
+
 ## 共享要求
 
 ### 1\. 内容
