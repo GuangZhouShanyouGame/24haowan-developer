@@ -15,6 +15,12 @@
         - [瀑布流](./Plugin/Vue/waterfall.md)
 
 - [DevTools](./DevTools/README.md)
+    
+    - iTerm2
+
+        - [Zsh](./DevTools/iTerm2/zsh.md)
+        - [Oh My Zsh](./DevTools/iTerm2/ohmyzsh.md)
+        - [主题-Solarized](./DevTools/iTerm2/theme-solarized.md)
 
 - [Resource](./Resource/README.md)
 
