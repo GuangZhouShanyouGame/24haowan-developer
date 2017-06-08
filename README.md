@@ -24,3 +24,4 @@
 ### 4\. 更新
 
 - 添加文档后需要更新索引：SUMMARY.md
+- 添加一级目录`(如IDE/Atom)`后，需要在上级的文档`(如IDE/README.md)`中添加Links`(如Atom的官网地址)`
